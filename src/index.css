@@ -1,0 +1,55 @@
+p.a {
+  color: black;
+  margin-bottom: 4px;
+
+}
+
+
+span.a-1 {
+  color: gray;
+
+}
+
+span.c {
+  color: gray;
+
+}
+
+p.d {
+  color: green;
+}
+
+p.e {
+  color: gray;
+
+}
+
+div.row {
+  margin-left: -11px;
+}
+
+div.d-flex-col {
+  border-radius: 4px;
+  border-color: white;
+  box-shadow: 4px;
+}
+
+div.s {
+
+  box-shadow: 10px 10px 10px 10px gray;
+}
+
+div.t {
+
+  box-shadow: 20px 20px 50px 15px grey;
+}
+
+.img-custom {
+  width: 200px;
+  height: 300px;
+}
+
+.name-div {
+  width: 70%;
+  margin-left: 20px;
+}
