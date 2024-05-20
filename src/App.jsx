@@ -15,7 +15,7 @@
           Role : <span className="a-1">Developer</span>
         </p>
         <p className="a  fw-bold">
-          Member Since : <span className="a-1">Nov 07, 16</span>
+          Hello <span className="a-1">Nov 07, 16</span>
         </p>
         <p className="fw-bold">
           Status : <span className="badge bg-success">Active</span>
